@@ -1,0 +1,82 @@
+[
+    {
+        "id":0,
+        "question":"What will be the output of the following code snippet?\n\n        x = (1, 2, 3)\n        y = x[0:2]\n        print(y[1])",
+        "option1":"2",
+        "option2":"Error",
+        "option3":"None",
+        "answer":"2"
+    },
+    {
+        "id":1,
+        "question":"Which of the following is not a valid identifier in Python?",
+        "option1":"my_var",
+        "option2":"2vars",
+        "option3":"_var",
+        "answer":"2vars"
+    },
+    {
+        "id":2,
+        "question":"What does the 'super' function do in Python?",
+        "option1":"It calls a parent class method",
+        "option2":"It returns the superclass of an object",
+        "option3":"None of the above",
+        "answer":"It calls a parent class method"
+    },
+    {
+        "id":3,
+        "question":"What is the time complexity of the 'in'\n        operator for lists in Python?",
+        "option1":"O(1)",
+        "option2":"O(log n)",
+        "option3":"O(n)",
+        "answer":"O(n)"
+    },
+    {
+        "id":4,
+        "question":"What will be the output of the following code snippet?\n\n        x = 2\n        y = x**x\n        print(y)",
+        "option1":"2",
+        "option2":"4",
+        "option3":"8",
+        "answer":"4"
+    },
+    {
+        "id":5,
+        "question":"Which of the following decorators is used for\n     caching the result of a function?",
+        "option1":"@staticmethod",
+        "option2":"@property",
+        "option3":"@lru_cache",
+        "answer":"@lru_cache"
+    },
+    {
+        "id":6,
+        "question":"What does the 'with' statement do in Python?",
+        "option1":"It opens and closes files automatically",
+        "option2":"It creates context managers",
+        "option3":"It ensures thread safety",
+        "answer":"It creates context managers"
+    },
+    {
+        "id":7,
+        "question":"In Python, how do you create a thread?",
+        "option1":"Using the 'thread' module",
+        "option2":"Using the 'concurrent.futures' module",
+        "option3":"Using the 'threading' module",
+        "answer":"Using the 'threading' module"
+    },
+    {
+        "id":8,
+        "question":"Which of the following is not a \n  built-in exception in Python?",
+        "option1":"TypeError",
+        "option2":"NameError",
+        "option3":"OutOfRangeError",
+        "answer":"OutOfRangeError"
+    },
+    {
+        "id":9,
+        "question":"What will be the output of the following code snippet?\n\n      x = [1, 2, 3]\n      y = [4, 5, 6]\n      z = list(zip(x, y))\n      print(z[1][0])",
+        "option1":"1",
+        "option2":"2",
+        "option3":"4",
+        "answer":"2"
+    }
+]

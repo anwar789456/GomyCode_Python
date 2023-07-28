@@ -1,0 +1,82 @@
+[
+    {
+        "id":0,
+        "question":"The 'in' operator is used to check if a value exists \nwithin an iterable object container such as a list.\nEvaluate to True if it finds a variable in the specified\nsequence and False otherwise.",
+        "option1":"True",
+        "option2":"False",
+        "option3":"I don't know",
+        "answer":"True"
+    },
+    {
+        "id":1,
+        "question":"What is the keyword used to define a function in Python?",
+        "option1":"method",
+        "option2":"def",
+        "option3":"class",
+        "answer":"def"
+    },
+    {
+        "id":2,
+        "question":"What is the output of the following code snippet?\n\nx = 10\ny = 5\nprint(x % y)",
+        "option1":"2.0",
+        "option2":"0",
+        "option3":"2",
+        "answer":"0"
+    },
+    {
+        "id":3,
+        "question":"What is the result of the following expression?\n\n2 + 3 * 5",
+        "option1":"25",
+        "option2":"17",
+        "option3":"13",
+        "answer":"17"
+    },
+    {
+        "id":4,
+        "question":"Which data type is used to represent a sequence of \n                       characters in Python?",
+        "option1":"str",
+        "option2":"char",
+        "option3":"string",
+        "answer":"str"
+    },
+    {
+        "id":5,
+        "question":"Which built-in function can be used to get\n                   the length of a list?",
+        "option1":"length()",
+        "option2":"size()",
+        "option3":"len()",
+        "answer":"len()"
+    },
+    {
+        "id":6,
+        "question":"Which Python library is commonly used for\n         data manipulation and analysis?",
+        "option1":"Pandas",
+        "option2":"Matplotlib",
+        "option3":"NumPy",
+        "answer":"Pandas"
+    },
+    {
+        "id":7,
+        "question":"Which of the following is used to install\n          external Python packages?",
+        "option1":"pip install",
+        "option2":"apt-get",
+        "option3":"install",
+        "answer":"pip install"
+    },
+    {
+        "id":8,
+        "question":"What is the correct way to comment\n         multiple lines in Python?",
+        "option1":"# This is a comment",
+        "option2":"// This is a comment",
+        "option3":"<-- this is a comment -->",
+        "answer":"# This is a comment"
+    },
+    {
+        "id":9,
+        "question":"What is the output of the following code snippet?\n\nx = [1, 2, 3]\ny = x\ny[0] = 5\nprint(x[0])",
+        "option1":"1",
+        "option2":"2",
+        "option3":"5",
+        "answer":"5"
+    }
+]
